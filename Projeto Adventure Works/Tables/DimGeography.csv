@@ -1,0 +1,656 @@
+﻿GeographyKey;SalesTerritoryKey;CountryRegionCode;StateProvinceName;StateProvinceCode;City;PostalCode;IpAddressLocator
+428;1;US;Idaho;ID;Idaho Falls;83402;192.0.2.175
+429;1;US;Idaho;ID;Lewiston;83501;192.0.2.176
+430;1;US;Idaho;ID;Sandpoint;83864;192.0.2.177
+491;1;US;Montana;MT;Billings;59101;192.0.2.238
+492;1;US;Montana;MT;Great Falls;59401;192.0.2.239
+493;1;US;Montana;MT;Missoula;59801;192.0.2.240
+508;1;US;Nevada;NV;Fernley;89408;203.0.113.1
+509;1;US;Nevada;NV;Las Vegas;89106;203.0.113.2
+510;1;US;Nevada;NV;North Las Vegas;89030;203.0.113.3
+511;1;US;Nevada;NV;Reno;89502;203.0.113.4
+512;1;US;Nevada;NV;Sparks;89431;203.0.113.5
+535;1;US;Oregon;OR;Albany;97321;203.0.113.28
+536;1;US;Oregon;OR;Beaverton;97005;203.0.113.29
+537;1;US;Oregon;OR;Clackamas;97015;203.0.113.30
+538;1;US;Oregon;OR;Clackamas;97015-6403;203.0.113.31
+539;1;US;Oregon;OR;Corvallis;97330;203.0.113.32
+540;1;US;Oregon;OR;Hillsboro;97123;203.0.113.33
+541;1;US;Oregon;OR;Klamath Falls;97601;203.0.113.34
+542;1;US;Oregon;OR;Lake Oswego;97034;203.0.113.35
+543;1;US;Oregon;OR;Lebanon;97355;203.0.113.36
+544;1;US;Oregon;OR;Medford;97504;203.0.113.37
+545;1;US;Oregon;OR;Milwaukie;97222;203.0.113.38
+546;1;US;Oregon;OR;Oregon City;97045;203.0.113.39
+547;1;US;Oregon;OR;Portland;97205;203.0.113.40
+548;1;US;Oregon;OR;Salem;97301;203.0.113.41
+549;1;US;Oregon;OR;Springfield;97477;203.0.113.42
+550;1;US;Oregon;OR;Tigard;97223;203.0.113.43
+551;1;US;Oregon;OR;Troutdale;97060;203.0.113.44
+552;1;US;Oregon;OR;W. Linn;97068;203.0.113.45
+553;1;US;Oregon;OR;Woodburn;97071;203.0.113.46
+594;1;US;Utah;UT;Bountiful;84010;203.0.113.87
+595;1;US;Utah;UT;Cedar City;84720;203.0.113.88
+596;1;US;Utah;UT;Ogden;84401;203.0.113.89
+597;1;US;Utah;UT;Park City;84098;203.0.113.90
+598;1;US;Utah;UT;Riverton;84065;203.0.113.91
+599;1;US;Utah;UT;Salt Lake City;84101;203.0.113.92
+600;1;US;Utah;UT;Sandy;84070;203.0.113.93
+601;1;US;Utah;UT;Tooele;84074;203.0.113.94
+607;1;US;Washington;WA;Ballard;98107;203.0.113.100
+608;1;US;Washington;WA;Bellevue;98004;203.0.113.101
+609;1;US;Washington;WA;Bellingham;98225;203.0.113.102
+610;1;US;Washington;WA;Bothell;98011;203.0.113.103
+611;1;US;Washington;WA;Bremerton;98312;203.0.113.104
+612;1;US;Washington;WA;Burien;98168;203.0.113.105
+613;1;US;Washington;WA;Chehalis;98532;203.0.113.106
+614;1;US;Washington;WA;Edmonds;98020;203.0.113.107
+615;1;US;Washington;WA;Ellensburg;98926;203.0.113.108
+616;1;US;Washington;WA;Everett;98201;203.0.113.109
+617;1;US;Washington;WA;Federal Way;98003;203.0.113.110
+618;1;US;Washington;WA;Issaquah;98027;203.0.113.111
+619;1;US;Washington;WA;Kelso;98626;203.0.113.112
+620;1;US;Washington;WA;Kenmore;98028;203.0.113.113
+621;1;US;Washington;WA;Kennewick;99337;203.0.113.114
+622;1;US;Washington;WA;Kent;98031;203.0.113.115
+623;1;US;Washington;WA;Kirkland;98033;203.0.113.116
+624;1;US;Washington;WA;Lacey;98503;203.0.113.117
+625;1;US;Washington;WA;Longview;98632;203.0.113.118
+626;1;US;Washington;WA;Lynnwood;98036;203.0.113.119
+627;1;US;Washington;WA;Marysville;98270;203.0.113.120
+628;1;US;Washington;WA;Monroe;98272;203.0.113.121
+629;1;US;Washington;WA;Newport Hills;98006;203.0.113.122
+630;1;US;Washington;WA;North Bend;98045;203.0.113.123
+631;1;US;Washington;WA;Olympia;98501;203.0.113.124
+632;1;US;Washington;WA;Port Orchard;98366;203.0.113.125
+633;1;US;Washington;WA;Puyallup;98371;203.0.113.126
+634;1;US;Washington;WA;Redmond;98052;203.0.113.127
+635;1;US;Washington;WA;Renton;98055;203.0.113.128
+636;1;US;Washington;WA;Sammamish;98074;203.0.113.129
+637;1;US;Washington;WA;Seattle;98104;203.0.113.130
+638;1;US;Washington;WA;Sedro Woolley;98284;203.0.113.131
+639;1;US;Washington;WA;Sequim;98382;203.0.113.132
+640;1;US;Washington;WA;Shelton;98584;203.0.113.133
+641;1;US;Washington;WA;Spokane;99202;203.0.113.134
+642;1;US;Washington;WA;Tacoma;98403;203.0.113.135
+643;1;US;Washington;WA;Union Gap;98903;203.0.113.136
+644;1;US;Washington;WA;Walla Walla;99362;203.0.113.137
+645;1;US;Washington;WA;Washougal;98671;203.0.113.138
+646;1;US;Washington;WA;Wenatchee;98801;203.0.113.139
+647;1;US;Washington;WA;Woodinville;98072;203.0.113.140
+648;1;US;Washington;WA;Yakima;98901;203.0.113.141
+653;1;US;Wyoming;WY;Casper;82601;203.0.113.146
+654;1;US;Wyoming;WY;Cheyenne;82001;203.0.113.147
+655;1;US;Wyoming;WY;Rock Springs;82901;203.0.113.148
+501;2;US;New Hampshire;NH;Hooksett;03106;192.0.2.248
+502;2;US;New Hampshire;NH;Nashua;03064;192.0.2.249
+503;2;US;New Hampshire;NH;Plaistow;03865;192.0.2.250
+504;2;US;New Hampshire;NH;Tilton;03276;192.0.2.251
+554;2;US;Rhode Island;RI;Warwick;02889;203.0.113.47
+555;2;US;Rhode Island;RI;West Kingston;02892;203.0.113.48
+556;2;US;Rhode Island;RI;Woonsocket;02895;203.0.113.49
+513;2;US;New York;NY;Central Valley;10917;203.0.113.6
+514;2;US;New York;NY;Cheektowaga;14227;203.0.113.7
+515;2;US;New York;NY;Clay;13041;203.0.113.8
+516;2;US;New York;NY;De Witt;13214;203.0.113.9
+517;2;US;New York;NY;Endicott;13760;203.0.113.10
+518;2;US;New York;NY;Ithaca;14850;203.0.113.11
+519;2;US;New York;NY;Lake George;12845;203.0.113.12
+520;2;US;New York;NY;Melville;11747;203.0.113.13
+521;2;US;New York;NY;New Hartford;13413;203.0.113.14
+522;2;US;New York;NY;New York;10007;203.0.113.15
+523;2;US;New York;NY;Valley Stream;11580;203.0.113.16
+524;2;US;Ohio;OH;Burbank;44214;203.0.113.17
+525;2;US;Ohio;OH;Cincinnati;45202;203.0.113.18
+526;2;US;Ohio;OH;Columbus;43215;203.0.113.19
+527;2;US;Ohio;OH;Euclid;44119;203.0.113.20
+528;2;US;Ohio;OH;Heath;43056;203.0.113.21
+529;2;US;Ohio;OH;Holland;43528;203.0.113.22
+530;2;US;Ohio;OH;Mansfield;44903;203.0.113.23
+531;2;US;Ohio;OH;Mentor;44060;203.0.113.24
+532;2;US;Ohio;OH;North Randall;44128;203.0.113.25
+533;2;US;Ohio;OH;Oberlin;44074;203.0.113.26
+534;2;US;Ohio;OH;Springdale;45246;203.0.113.27
+441;2;US;Indiana;IN;Daleville;47334;192.0.2.188
+442;2;US;Indiana;IN;Fort Wayne;46807;192.0.2.189
+443;2;US;Indiana;IN;Indianapolis;46204;192.0.2.190
+444;2;US;Indiana;IN;Logansport;46947;192.0.2.191
+445;2;US;Indiana;IN;Michigan City;46360;192.0.2.192
+446;2;US;Indiana;IN;New Castle;47362;192.0.2.193
+447;2;US;Indiana;IN;South Bend;46601;192.0.2.194
+453;2;US;Massachusetts;MA;Braintree;02184;192.0.2.200
+454;2;US;Massachusetts;MA;Norwood;02062;192.0.2.201
+455;2;US;Massachusetts;MA;Randolph;02368;192.0.2.202
+456;2;US;Massachusetts;MA;Saugus;01906;192.0.2.203
+457;2;US;Massachusetts;MA;Wrentham;02093;192.0.2.204
+458;2;US;Maryland;MD;Baltimore;21201;192.0.2.205
+459;2;US;Maine;ME;Kittery;03904;192.0.2.206
+393;2;US;Connecticut;CT;East Haven;06512;192.0.2.140
+394;2;US;Connecticut;CT;Farmington;06032;192.0.2.141
+395;2;US;Connecticut;CT;Hamden;06518;192.0.2.142
+396;2;US;Connecticut;CT;Milford;06460;192.0.2.143
+397;2;US;Connecticut;CT;New Haven;06510;192.0.2.144
+398;2;US;Connecticut;CT;Stamford;06901;192.0.2.145
+399;2;US;Connecticut;CT;Waterbury;06710;192.0.2.146
+400;2;US;Connecticut;CT;Westport;06880;192.0.2.147
+460;3;US;Michigan;MI;Detroit;48226;192.0.2.207
+461;3;US;Michigan;MI;Holland;49423;192.0.2.208
+462;3;US;Michigan;MI;Howell;48843;192.0.2.209
+463;3;US;Michigan;MI;Madison Heights;48071;192.0.2.210
+464;3;US;Michigan;MI;Midland;48640;192.0.2.211
+465;3;US;Michigan;MI;Monroe;98272;192.0.2.212
+466;3;US;Michigan;MI;Novi;48375;192.0.2.213
+467;3;US;Michigan;MI;Pontiac;48342;192.0.2.214
+468;3;US;Michigan;MI;Port Huron;48060;192.0.2.215
+469;3;US;Michigan;MI;Redford;48239;192.0.2.216
+470;3;US;Michigan;MI;Saginaw;48601;192.0.2.217
+471;3;US;Michigan;MI;Southfield;48034;192.0.2.218
+472;3;US;Michigan;MI;Southgate;48195;192.0.2.219
+473;3;US;Michigan;MI;Westland;48185;192.0.2.220
+474;3;US;Michigan;MI;Zeeland;49464;192.0.2.221
+475;3;US;Minnesota;MN;Branch;55056;192.0.2.222
+476;3;US;Minnesota;MN;Duluth;55802;192.0.2.223
+477;3;US;Minnesota;MN;Edina;55436;192.0.2.224
+478;3;US;Minnesota;MN;Medford;55049;192.0.2.225
+479;3;US;Minnesota;MN;Minneapolis;55402;192.0.2.226
+480;3;US;Minnesota;MN;Woodbury;55125;192.0.2.227
+481;3;US;Missouri;MO;Branson;65616;192.0.2.228
+482;3;US;Missouri;MO;Ferguson;63135;192.0.2.229
+483;3;US;Missouri;MO;Jefferson City;65101;192.0.2.230
+484;3;US;Missouri;MO;Kansas City;64106;192.0.2.231
+485;3;US;Missouri;MO;Odessa;64076;192.0.2.232
+486;3;US;Missouri;MO;Saint Ann;63074;192.0.2.233
+487;3;US;Missouri;MO;Saint Louis;63103;192.0.2.234
+431;3;US;Illinois;IL;Carol Stream;60188;192.0.2.178
+432;3;US;Illinois;IL;Chicago;60610;192.0.2.179
+433;3;US;Illinois;IL;Elgin;60120;192.0.2.180
+434;3;US;Illinois;IL;Joliet;60433;192.0.2.181
+435;3;US;Illinois;IL;Moline;61265;192.0.2.182
+436;3;US;Illinois;IL;Norridge;60706;192.0.2.183
+437;3;US;Illinois;IL;Peoria;61606;192.0.2.184
+438;3;US;Illinois;IL;Tuscola;61953;192.0.2.185
+439;3;US;Illinois;IL;West Chicago;60185;192.0.2.186
+440;3;US;Illinois;IL;Wood Dale;60191;192.0.2.187
+386;3;US;Colorado;CO;Denver;80203;192.0.2.133
+387;3;US;Colorado;CO;Englewood;80110;192.0.2.134
+388;3;US;Colorado;CO;Greeley;80631;192.0.2.135
+389;3;US;Colorado;CO;Longmont;80501;192.0.2.136
+390;3;US;Colorado;CO;Loveland;80537;192.0.2.137
+391;3;US;Colorado;CO;Parker;80138;192.0.2.138
+392;3;US;Colorado;CO;Westminster;80030;192.0.2.139
+560;3;US;South Dakota;SD;Denby;57716;203.0.113.53
+561;3;US;South Dakota;SD;North Sioux City;57049;203.0.113.54
+649;3;US;Wisconsin;WI;Johnson Creek;53038;203.0.113.142
+650;3;US;Wisconsin;WI;Milwaukee;53202;203.0.113.143
+651;3;US;Wisconsin;WI;Mosinee;54455;203.0.113.144
+652;3;US;Wisconsin;WI;Racine;53182;203.0.113.145
+505;4;US;New Mexico;NM;Las Cruces;88001;192.0.2.252
+506;4;US;New Mexico;NM;Rio Rancho;87124;192.0.2.253
+507;4;US;New Mexico;NM;Santa Fe;87501;192.0.2.254
+571;4;US;Texas;TX;Arlington;76010;203.0.113.64
+572;4;US;Texas;TX;Austin;78701;203.0.113.65
+573;4;US;Texas;TX;Baytown;77520;203.0.113.66
+574;4;US;Texas;TX;Carrollton;75006;203.0.113.67
+575;4;US;Texas;TX;Cedar Park;78613;203.0.113.68
+576;4;US;Texas;TX;College Station;77840;203.0.113.69
+577;4;US;Texas;TX;Corpus Christi;78404;203.0.113.70
+578;4;US;Texas;TX;Dallas;75201;203.0.113.71
+579;4;US;Texas;TX;Fort Worth;76102;203.0.113.72
+580;4;US;Texas;TX;Garland;75040;203.0.113.73
+581;4;US;Texas;TX;Hillsboro;76645;203.0.113.74
+582;4;US;Texas;TX;Houston;77003;203.0.113.75
+583;4;US;Texas;TX;Humble;77338;203.0.113.76
+584;4;US;Texas;TX;Irving;75061;203.0.113.77
+585;4;US;Texas;TX;Killeen;76541;203.0.113.78
+586;4;US;Texas;TX;La Marque;77568;203.0.113.79
+587;4;US;Texas;TX;Laredo;78040;203.0.113.80
+588;4;US;Texas;TX;Mesquite;75149;203.0.113.81
+589;4;US;Texas;TX;Plano;75074;203.0.113.82
+590;4;US;Texas;TX;Round Rock;78664;203.0.113.83
+591;4;US;Texas;TX;San Antonio;78204;203.0.113.84
+592;4;US;Texas;TX;Stafford;77477;203.0.113.85
+593;4;US;Texas;TX;Sugar Land;77478;203.0.113.86
+285;4;US;Arizona;AZ;Chandler;85225;192.0.2.32
+286;4;US;Arizona;AZ;Gilbert;85233;192.0.2.33
+287;4;US;Arizona;AZ;Mesa;85201;192.0.2.34
+288;4;US;Arizona;AZ;Phoenix;85004;192.0.2.35
+289;4;US;Arizona;AZ;Scottsdale;85257;192.0.2.36
+290;4;US;Arizona;AZ;Surprise;85374;192.0.2.37
+291;4;US;Arizona;AZ;Tucson;85701;192.0.2.38
+292;4;US;California;CA;Alhambra;91801;192.0.2.39
+293;4;US;California;CA;Alpine;91901;192.0.2.40
+294;4;US;California;CA;Auburn;95603;192.0.2.41
+295;4;US;California;CA;Baldwin Park;91706;192.0.2.42
+296;4;US;California;CA;Barstow;92311;192.0.2.43
+297;4;US;California;CA;Bell Gardens;90201;192.0.2.44
+298;4;US;California;CA;Bellflower;90706;192.0.2.45
+299;4;US;California;CA;Berkeley;94704;192.0.2.46
+300;4;US;California;CA;Beverly Hills;90210;192.0.2.47
+301;4;US;California;CA;Burbank;91502;192.0.2.48
+302;4;US;California;CA;Burlingame;94010;192.0.2.49
+303;4;US;California;CA;Camarillo;93010;192.0.2.50
+304;4;US;California;CA;Canoga Park;91303;192.0.2.51
+305;4;US;California;CA;Carson;90746;192.0.2.52
+306;4;US;California;CA;Cerritos;90703;192.0.2.53
+307;4;US;California;CA;Chula Vista;91910;192.0.2.54
+308;4;US;California;CA;Citrus Heights;95610;192.0.2.55
+309;4;US;California;CA;City Of Commerce;90040;192.0.2.56
+310;4;US;California;CA;Colma;94014;192.0.2.57
+311;4;US;California;CA;Concord;94519;192.0.2.58
+312;4;US;California;CA;Coronado;92118;192.0.2.59
+313;4;US;California;CA;Culver City;90232;192.0.2.60
+314;4;US;California;CA;Daly City;94015;192.0.2.61
+315;4;US;California;CA;Downey;90241;192.0.2.62
+316;4;US;California;CA;El Cajon;92020;192.0.2.63
+317;4;US;California;CA;El Segundo;90245;192.0.2.64
+318;4;US;California;CA;Elk Grove;95624;192.0.2.65
+319;4;US;California;CA;Escondido;92025;192.0.2.66
+320;4;US;California;CA;Eureka;95501;192.0.2.67
+321;4;US;California;CA;Fontana;92335;192.0.2.68
+322;4;US;California;CA;Fremont;94536;192.0.2.69
+323;4;US;California;CA;Fullerton;92831;192.0.2.70
+324;4;US;California;CA;Gilroy;95020;192.0.2.71
+325;4;US;California;CA;Glendale;91203;192.0.2.72
+326;4;US;California;CA;Grossmont;91941;192.0.2.73
+327;4;US;California;CA;Hanford;93230;192.0.2.74
+328;4;US;California;CA;Hayward;94541;192.0.2.75
+329;4;US;California;CA;Imperial Beach;91932;192.0.2.76
+330;4;US;California;CA;Irvine;92614;192.0.2.77
+331;4;US;California;CA;La Jolla;92806;192.0.2.78
+332;4;US;California;CA;La Mesa;91941;192.0.2.79
+333;4;US;California;CA;Lake Elsinore;92530;192.0.2.80
+334;4;US;California;CA;Lakewood;90712;192.0.2.81
+335;4;US;California;CA;Lemon Grove;91945;192.0.2.82
+336;4;US;California;CA;Lincoln Acres;91950;192.0.2.83
+337;4;US;California;CA;Long Beach;90802;192.0.2.84
+338;4;US;California;CA;Los Angeles;90012;192.0.2.85
+339;4;US;California;CA;Mill Valley;94941;192.0.2.86
+340;4;US;California;CA;Milpitas;95035;192.0.2.87
+341;4;US;California;CA;Modesto;95354;192.0.2.88
+342;4;US;California;CA;Monrovia;91016;192.0.2.89
+343;4;US;California;CA;National City;91950;192.0.2.90
+344;4;US;California;CA;Newark;94560;192.0.2.91
+345;4;US;California;CA;Newport Beach;92625;192.0.2.92
+346;4;US;California;CA;Norwalk;90650;192.0.2.93
+347;4;US;California;CA;Novato;94947;192.0.2.94
+348;4;US;California;CA;Oakland;94611;192.0.2.95
+349;4;US;California;CA;Ontario;91764;192.0.2.96
+350;4;US;California;CA;Orange;92867;192.0.2.97
+351;4;US;California;CA;Oxnard;93030;192.0.2.98
+352;4;US;California;CA;Palo Alto;94303;192.0.2.99
+353;4;US;California;CA;Pleasanton;94566;192.0.2.100
+354;4;US;California;CA;Redlands;92373;192.0.2.101
+355;4;US;California;CA;Redwood City;94063;192.0.2.102
+356;4;US;California;CA;Sacramento;95814;192.0.2.103
+357;4;US;California;CA;San Bruno;94066;192.0.2.104
+358;4;US;California;CA;San Carlos;94070;192.0.2.105
+359;4;US;California;CA;San Diego;92102;192.0.2.106
+360;4;US;California;CA;San Francisco;94109;192.0.2.107
+361;4;US;California;CA;San Gabriel;91776;192.0.2.108
+362;4;US;California;CA;San Jose;95112;192.0.2.109
+363;4;US;California;CA;San Mateo;94404;192.0.2.110
+364;4;US;California;CA;San Ramon;94583;192.0.2.111
+365;4;US;California;CA;San Ysidro;92173;192.0.2.112
+366;4;US;California;CA;Sand City;93955;192.0.2.113
+367;4;US;California;CA;Santa Ana;92701;192.0.2.114
+368;4;US;California;CA;Santa Cruz;95062;192.0.2.115
+369;4;US;California;CA;Santa Monica;90401;192.0.2.116
+370;4;US;California;CA;Sherman Oaks;91403;192.0.2.117
+371;4;US;California;CA;Simi Valley;93065;192.0.2.118
+372;4;US;California;CA;Spring Valley;91977;192.0.2.119
+373;4;US;California;CA;Stockton;95202;192.0.2.120
+374;4;US;California;CA;Torrance;90505;192.0.2.121
+375;4;US;California;CA;Trabuco Canyon;92679;192.0.2.122
+376;4;US;California;CA;Union City;94587;192.0.2.123
+377;4;US;California;CA;Upland;91786;192.0.2.124
+378;4;US;California;CA;Vacaville;95688;192.0.2.125
+379;4;US;California;CA;Van Nuys;91411;192.0.2.126
+380;4;US;California;CA;Visalia;93291;192.0.2.127
+381;4;US;California;CA;Vista;92084;192.0.2.128
+382;4;US;California;CA;Walnut Creek;94596;192.0.2.129
+383;4;US;California;CA;West Covina;91791;192.0.2.130
+384;4;US;California;CA;Whittier;90605;192.0.2.131
+385;4;US;California;CA;Woodland Hills;91364;192.0.2.132
+562;5;US;Tennessee;TN;Crossville;38555;203.0.113.55
+563;5;US;Tennessee;TN;Hixson;37343;203.0.113.56
+564;5;US;Tennessee;TN;Kingsport;37660;203.0.113.57
+565;5;US;Tennessee;TN;La Vergne;37086;203.0.113.58
+566;5;US;Tennessee;TN;Maryville;37801;203.0.113.59
+567;5;US;Tennessee;TN;Memphis;38103;203.0.113.60
+568;5;US;Tennessee;TN;Millington;38054;203.0.113.61
+569;5;US;Tennessee;TN;Nashville;37203;203.0.113.62
+570;5;US;Tennessee;TN;Pigeon Forge;37863;203.0.113.63
+602;5;US;Virginia;VA;Chantilly;20151;203.0.113.95
+603;5;US;Virginia;VA;Falls Church;22046;203.0.113.96
+604;5;US;Virginia;VA;Leesburg;20176;203.0.113.97
+605;5;US;Virginia;VA;Newport News;23607;203.0.113.98
+606;5;US;Virginia;VA;Virginia Beach;23451;203.0.113.99
+557;5;US;South Carolina;SC;Bluffton;29910;203.0.113.50
+558;5;US;South Carolina;SC;Gaffney;29340;203.0.113.51
+559;5;US;South Carolina;SC;Myrtle Beach;29577;203.0.113.52
+280;5;US;Alabama;AL;Birmingham;35203;192.0.2.27
+281;5;US;Alabama;AL;Florence;35630;192.0.2.28
+282;5;US;Alabama;AL;Huntsville;35801;192.0.2.29
+283;5;US;Alabama;AL;Mobile;36602;192.0.2.30
+284;5;US;Alabama;AL;Montgomery;36104;192.0.2.31
+448;5;US;Kentucky;KY;Campbellsville;42718;192.0.2.195
+449;5;US;Kentucky;KY;Florence;41042;192.0.2.196
+450;5;US;Kentucky;KY;Newport;41071;192.0.2.197
+451;5;US;Kentucky;KY;Saint Matthews;40207;192.0.2.198
+452;5;US;Kentucky;KY;Somerset;42501;192.0.2.199
+494;5;US;North Carolina;NC;Charlotte;28202;192.0.2.241
+495;5;US;North Carolina;NC;Greensboro;27412;192.0.2.242
+496;5;US;North Carolina;NC;Kannapolis;28081;192.0.2.243
+497;5;US;North Carolina;NC;Raleigh;27603;192.0.2.244
+498;5;US;North Carolina;NC;Rocky Mount;27803;192.0.2.245
+499;5;US;North Carolina;NC;Smithfield;27577;192.0.2.246
+500;5;US;North Carolina;NC;Winston-Salem;27104;192.0.2.247
+488;5;US;Mississippi;MS;Biloxi;39530;192.0.2.235
+489;5;US;Mississippi;MS;Gulfport;39501;192.0.2.236
+490;5;US;Mississippi;MS;Tupelo;38804;192.0.2.237
+401;5;US;Florida;FL;Altamonte Springs;32701;192.0.2.148
+402;5;US;Florida;FL;Bradenton;34205;192.0.2.149
+403;5;US;Florida;FL;Clearwater;33755;192.0.2.150
+404;5;US;Florida;FL;Destin;32541;192.0.2.151
+405;5;US;Florida;FL;Hollywood;33021;192.0.2.152
+406;5;US;Florida;FL;Kendall;33143;192.0.2.153
+407;5;US;Florida;FL;Lakeland;33801;192.0.2.154
+408;5;US;Florida;FL;Merritt Island;32952;192.0.2.155
+409;5;US;Florida;FL;Miami;33127;192.0.2.156
+410;5;US;Florida;FL;North Miami Beach;33162;192.0.2.157
+411;5;US;Florida;FL;Orlando;32804;192.0.2.158
+412;5;US;Florida;FL;Sarasota;34236;192.0.2.159
+413;5;US;Florida;FL;Sunrise;33322;192.0.2.160
+414;5;US;Florida;FL;Tampa;33602;192.0.2.161
+415;5;US;Florida;FL;Vero Beach;32960;192.0.2.162
+416;5;US;Georgia;GA;Atlanta;30308;192.0.2.163
+417;5;US;Georgia;GA;Augusta;30901;192.0.2.164
+418;5;US;Georgia;GA;Austell;30106;192.0.2.165
+419;5;US;Georgia;GA;Byron;31008;192.0.2.166
+420;5;US;Georgia;GA;Clarkston;30021;192.0.2.167
+421;5;US;Georgia;GA;Columbus;31901;192.0.2.168
+422;5;US;Georgia;GA;Decatur;30030;192.0.2.169
+423;5;US;Georgia;GA;La Grange;30240;192.0.2.170
+424;5;US;Georgia;GA;Marietta;30060;192.0.2.171
+425;5;US;Georgia;GA;Mcdonough;30253;192.0.2.172
+426;5;US;Georgia;GA;Savannah;31401;192.0.2.173
+427;5;US;Georgia;GA;Suwanee;30024;192.0.2.174
+41;6;CA;Alberta;AB;Calgary;T2P 2G8;198.51.100.42
+42;6;CA;Alberta;AB;Edmonton;T5;198.51.100.43
+43;6;CA;British Columbia;BC;Burnaby;V3J 6Z3;198.51.100.44
+44;6;CA;British Columbia;BC;Burnaby;V5A 3A6;198.51.100.45
+45;6;CA;British Columbia;BC;Burnaby;V5A 4X1;198.51.100.46
+46;6;CA;British Columbia;BC;Burnaby;V5G 4S4;198.51.100.47
+47;6;CA;British Columbia;BC;Burnaby;V5G 4W1;198.51.100.48
+48;6;CA;British Columbia;BC;Burnaby;V5H 3Z7;198.51.100.49
+49;6;CA;British Columbia;BC;Cliffside;V8Y 1L1;198.51.100.50
+50;6;CA;British Columbia;BC;Haney;V2W 1W2;198.51.100.51
+51;6;CA;British Columbia;BC;Langford;V9;198.51.100.52
+52;6;CA;British Columbia;BC;Langley;V3A 4R2;198.51.100.53
+53;6;CA;British Columbia;BC;Metchosin;V9;198.51.100.54
+54;6;CA;British Columbia;BC;N. Vancouver;V7L 4J4;198.51.100.55
+55;6;CA;British Columbia;BC;Newton;V2L3W8;198.51.100.56
+56;6;CA;British Columbia;BC;Newton;V2M1N7;198.51.100.57
+57;6;CA;British Columbia;BC;Newton;V2M1P1;198.51.100.58
+58;6;CA;British Columbia;BC;Newton;V2M1S6;198.51.100.59
+59;6;CA;British Columbia;BC;Oak Bay;V8P;198.51.100.60
+60;6;CA;British Columbia;BC;Port Hammond;V6B 3P7;198.51.100.61
+61;6;CA;British Columbia;BC;Richmond;V6B 3P7;198.51.100.62
+62;6;CA;British Columbia;BC;Royal Oak;V8X;198.51.100.63
+63;6;CA;British Columbia;BC;Shawnee;V8Z 4N5;198.51.100.64
+64;6;CA;British Columbia;BC;Shawnee;V9B 2C3;198.51.100.65
+65;6;CA;British Columbia;BC;Shawnee;V9B 5T2;198.51.100.66
+66;6;CA;British Columbia;BC;Sooke;V0;198.51.100.67
+67;6;CA;British Columbia;BC;Surrey;V3T 4W3;198.51.100.68
+68;6;CA;British Columbia;BC;Vancouver;V7L 4J4;198.51.100.69
+69;6;CA;British Columbia;BC;Victoria;V8V;198.51.100.70
+70;6;CA;British Columbia;BC;Westminster;V3L 1E7;198.51.100.71
+71;6;CA;British Columbia;BC;Westminster;V3L 1H4;198.51.100.72
+72;6;CA;Manitoba;MB;Winnipeg;R3;198.51.100.73
+73;6;CA;Brunswick;NB;Saint John;E2P 1E3;198.51.100.74
+74;6;CA;Ontario;ON;Aurora;L4G 7N6;198.51.100.75
+75;6;CA;Ontario;ON;Barrie;L4N;198.51.100.76
+76;6;CA;Ontario;ON;Brampton;L6W 2T7;198.51.100.77
+77;6;CA;Ontario;ON;Chalk Riber;K0J 1J0;198.51.100.78
+78;6;CA;Ontario;ON;Etobicoke;M9W 3P3;198.51.100.79
+79;6;CA;Ontario;ON;Kanata;K2L 1H5;198.51.100.80
+80;6;CA;Ontario;ON;Kingston;7L;198.51.100.81
+81;6;CA;Ontario;ON;Markham;L3S 3K2;198.51.100.82
+82;6;CA;Ontario;ON;Mississauga;L4W 5J3;198.51.100.83
+83;6;CA;Ontario;ON;Mississauga;L5A 1H6;198.51.100.84
+84;6;CA;Ontario;ON;Mississauga;L5B 3V4;198.51.100.85
+85;6;CA;Ontario;ON;Nepean;K2J 2W5;198.51.100.86
+86;6;CA;Ontario;ON;North York;M4C 4K6;198.51.100.87
+87;6;CA;Ontario;ON;Ottawa;K4B 1S1;198.51.100.88
+88;6;CA;Ontario;ON;Ottawa;K4B 1S2;198.51.100.89
+89;6;CA;Ontario;ON;Ottawa;K4B 1S3;198.51.100.90
+90;6;CA;Ontario;ON;Ottawa;K4B 1T7;198.51.100.91
+91;6;CA;Ontario;ON;Richmond Hill;L4E 3M5;198.51.100.92
+92;6;CA;Ontario;ON;Scarborough;M1V 4M2;198.51.100.93
+93;6;CA;Ontario;ON;Toronto;M4B 1V4;198.51.100.94
+94;6;CA;Ontario;ON;Toronto;M4B 1V5;198.51.100.95
+95;6;CA;Ontario;ON;Toronto;M4B 1V6;198.51.100.96
+96;6;CA;Ontario;ON;Toronto;M4B 1V7;198.51.100.97
+97;6;CA;Ontario;ON;Vancouver;V5T 1Y9;198.51.100.98
+98;6;CA;Ontario;ON;Waterloo;N2V;198.51.100.99
+99;6;CA;Ontario;ON;Weston;M9V 4W3;198.51.100.100
+100;6;CA;Quebec;QC;Brossard;J4Z 1C5;198.51.100.101
+101;6;CA;Quebec;QC;Brossard;J4Z 1R4;198.51.100.102
+102;6;CA;Quebec;QC;Dorval;H9P 1H1;198.51.100.103
+103;6;CA;Quebec;QC;Hull;8Y;198.51.100.104
+104;6;CA;Quebec;QC;Montreal;H1Y 2H3;198.51.100.105
+105;6;CA;Quebec;QC;Montreal;H1Y 2H5;198.51.100.106
+106;6;CA;Quebec;QC;Montreal;H1Y 2H7;198.51.100.107
+107;6;CA;Quebec;QC;Montreal;H1Y 2H8;198.51.100.108
+108;6;CA;Quebec;QC;Outremont;H1Y 2G5;198.51.100.109
+109;6;CA;Quebec;QC;Pnot-Rouge;J1E 2T7;198.51.100.110
+110;6;CA;Quebec;QC;Quebec;G1R;198.51.100.111
+111;6;CA;Quebec;QC;Sainte-Foy;G1W;198.51.100.112
+112;6;CA;Quebec;QC;Sillery;G1T;198.51.100.113
+113;6;CA;Quebec;QC;Ville De'anjou;J1G 2R3;198.51.100.114
+179;7;FR;Charente-Maritime;17;Saint Ouen;17490;198.51.100.180
+180;7;FR;Garonne (Haute);31;Colomiers;31770;198.51.100.181
+181;7;FR;Gers;32;Aujan Mournede;32300;198.51.100.182
+182;7;FR;Loir et Cher;41;Saint Ouen;41100;198.51.100.183
+183;7;FR;Loiret;45;Orleans;45000;198.51.100.184
+184;7;FR;Moselle;57;Metz;57000;198.51.100.185
+185;7;FR;Nord;59;Croix;59170;198.51.100.186
+186;7;FR;Nord;59;Dunkerque;59140;198.51.100.187
+187;7;FR;Nord;59;Lille;59000;198.51.100.188
+188;7;FR;Nord;59;Roncq;59223;198.51.100.189
+189;7;FR;Nord;59;Roubaix;59100;198.51.100.190
+190;7;FR;Nord;59;Villeneuve-d'Ascq;59491;198.51.100.191
+191;7;FR;Pas de Calais;62;Boulogne-sur-Mer;62200;198.51.100.192
+192;7;FR;Seine (Paris);75;Paris;75002;198.51.100.193
+193;7;FR;Seine (Paris);75;Paris;75003;198.51.100.194
+194;7;FR;Seine (Paris);75;Paris;75005;198.51.100.195
+195;7;FR;Seine (Paris);75;Paris;75006;198.51.100.196
+196;7;FR;Seine (Paris);75;Paris;75007;198.51.100.197
+197;7;FR;Seine (Paris);75;Paris;75008;198.51.100.198
+198;7;FR;Seine (Paris);75;Paris;75009;198.51.100.199
+199;7;FR;Seine (Paris);75;Paris;75010;198.51.100.200
+200;7;FR;Seine (Paris);75;Paris;75012;198.51.100.201
+201;7;FR;Seine (Paris);75;Paris;75013;198.51.100.202
+202;7;FR;Seine (Paris);75;Paris;75016;198.51.100.203
+203;7;FR;Seine (Paris);75;Paris;75017;198.51.100.204
+204;7;FR;Seine (Paris);75;Paris;75019;198.51.100.205
+205;7;FR;Seine et Marne;77;Lieusaint;77127;198.51.100.206
+206;7;FR;Seine et Marne;77;Roissy en Brie;77680;198.51.100.207
+207;7;FR;Yveline;78;Chatou;78400;198.51.100.208
+208;7;FR;Yveline;78;Saint Germain en Laye;78100;198.51.100.209
+209;7;FR;Yveline;78;Versailles;78000;198.51.100.210
+210;7;FR;Somme;80;Saint Ouen;80610;198.51.100.211
+211;7;FR;Essonne;91;Les Ulis;91940;198.51.100.212
+212;7;FR;Essonne;91;Morangis;91420;198.51.100.213
+213;7;FR;Essonne;91;Verrieres Le Buisson;91370;198.51.100.214
+214;7;FR;Hauts de Seine;92;Boulogne-Billancourt;92100;198.51.100.215
+215;7;FR;Hauts de Seine;92;Colombes;92700;198.51.100.216
+216;7;FR;Hauts de Seine;92;Courbevoie;92400;198.51.100.217
+217;7;FR;Hauts de Seine;92;Paris La Defense;92081;198.51.100.218
+218;7;FR;Hauts de Seine;92;Sèvres;92310;198.51.100.219
+219;7;FR;Hauts de Seine;92;Suresnes;92150;198.51.100.220
+220;7;FR;Seine Saint Denis;93;Bobigny;93000;198.51.100.221
+221;7;FR;Seine Saint Denis;93;Drancy;93700;198.51.100.222
+222;7;FR;Seine Saint Denis;93;Pantin;93500;198.51.100.223
+223;7;FR;Seine Saint Denis;93;Saint-Denis;93400;198.51.100.224
+224;7;FR;Seine Saint Denis;93;Tremblay-en-France;93290;198.51.100.225
+225;7;FR;Val de Marne;94;Orly;94310;198.51.100.226
+226;7;FR;Val d'Oise;95;Cergy;95000;198.51.100.227
+114;8;DE;Brandenburg;BB;Berlin;14197;198.51.100.115
+115;8;DE;Brandenburg;BB;Eilenburg;04838;198.51.100.116
+116;8;DE;Bayern;BY;Augsburg;86150;198.51.100.117
+117;8;DE;Bayern;BY;Erlangen;91054;198.51.100.118
+118;8;DE;Bayern;BY;Frankfurt;91480;198.51.100.119
+119;8;DE;Bayern;BY;Grevenbroich;41485;198.51.100.120
+120;8;DE;Bayern;BY;Hof;95010;198.51.100.121
+121;8;DE;Bayern;BY;Ingolstadt;85049;198.51.100.122
+122;8;DE;Hessen;HE;Bad Soden;65800;198.51.100.123
+123;8;DE;Hessen;HE;Berlin;12171;198.51.100.124
+124;8;DE;Hessen;HE;Berlin;13441;198.51.100.125
+125;8;DE;Hessen;HE;Berlin;14111;198.51.100.126
+126;8;DE;Hessen;HE;Berlin;14129;198.51.100.127
+127;8;DE;Hessen;HE;Darmstadt;64283;198.51.100.128
+128;8;DE;Hessen;HE;Dresden;01071;198.51.100.129
+129;8;DE;Hessen;HE;Duesseldorf;40434;198.51.100.130
+130;8;DE;Hessen;HE;Duesseldorf;40605;198.51.100.131
+131;8;DE;Hessen;HE;Frankfurt;60323;198.51.100.132
+132;8;DE;Hessen;HE;Hamburg;22001;198.51.100.133
+133;8;DE;Hessen;HE;Kassel;34117;198.51.100.134
+134;8;DE;Hessen;HE;München;80074;198.51.100.135
+135;8;DE;Hessen;HE;Salzgitter;38231;198.51.100.136
+136;8;DE;Hamburg;HH;Ascheim;86171;198.51.100.137
+137;8;DE;Hamburg;HH;Augsburg;86171;198.51.100.138
+138;8;DE;Hamburg;HH;Berlin;10210;198.51.100.139
+139;8;DE;Hamburg;HH;Berlin;10791;198.51.100.140
+140;8;DE;Hamburg;HH;Berlin;12311;198.51.100.141
+141;8;DE;Hamburg;HH;Berlin;14111;198.51.100.142
+142;8;DE;Hamburg;HH;Bonn;53001;198.51.100.143
+143;8;DE;Hamburg;HH;Bonn;53131;198.51.100.144
+144;8;DE;Hamburg;HH;Essen;45001;198.51.100.145
+145;8;DE;Hamburg;HH;Frankfurt am Main;60082;198.51.100.146
+146;8;DE;Hamburg;HH;Frankfurt am Main;60355;198.51.100.147
+147;8;DE;Hamburg;HH;Hamburg;20354;198.51.100.148
+148;8;DE;Hamburg;HH;Muehlheim;63151;198.51.100.149
+149;8;DE;Hamburg;HH;Mühlheim;63151;198.51.100.150
+150;8;DE;Hamburg;HH;München;80074;198.51.100.151
+151;8;DE;Hamburg;HH;Paderborn;33041;198.51.100.152
+152;8;DE;Nordrhein-Westfalen;NW;Berlin;10501;198.51.100.153
+153;8;DE;Nordrhein-Westfalen;NW;Berlin;14197;198.51.100.154
+154;8;DE;Nordrhein-Westfalen;NW;Bonn;53131;198.51.100.155
+155;8;DE;Nordrhein-Westfalen;NW;Bottrop;46236;198.51.100.156
+156;8;DE;Nordrhein-Westfalen;NW;Braunschweig;38001;198.51.100.157
+157;8;DE;Nordrhein-Westfalen;NW;Hannover;30601;198.51.100.158
+158;8;DE;Nordrhein-Westfalen;NW;Leipzig;04139;198.51.100.159
+159;8;DE;Nordrhein-Westfalen;NW;München;80074;198.51.100.160
+160;8;DE;Nordrhein-Westfalen;NW;Paderborn;33098;198.51.100.161
+161;8;DE;Nordrhein-Westfalen;NW;Solingen;42651;198.51.100.162
+162;8;DE;Nordrhein-Westfalen;NW;Werne;59368;198.51.100.163
+163;8;DE;Saarland;SL;Berlin;12171;198.51.100.164
+164;8;DE;Saarland;SL;Berlin;12311;198.51.100.165
+165;8;DE;Saarland;SL;Berlin;14197;198.51.100.166
+166;8;DE;Saarland;SL;Frankfurt am Main;60061;198.51.100.167
+167;8;DE;Saarland;SL;Frankfurt am Main;60075;198.51.100.168
+168;8;DE;Saarland;SL;Kiel;24044;198.51.100.169
+169;8;DE;Saarland;SL;München;48001;198.51.100.170
+170;8;DE;Saarland;SL;Münster;48001;198.51.100.171
+171;8;DE;Saarland;SL;Neunkirchen;66578;198.51.100.172
+172;8;DE;Saarland;SL;Offenbach;63009;198.51.100.173
+173;8;DE;Saarland;SL;Poing;66041;198.51.100.174
+174;8;DE;Saarland;SL;Saarbrücken;66001;198.51.100.175
+175;8;DE;Saarland;SL;Saarlouis;66740;198.51.100.176
+176;8;DE;Saarland;SL;Stuttgart;70452;198.51.100.177
+177;8;DE;Saarland;SL;Stuttgart;70511;198.51.100.178
+178;8;DE;Saarland;SL;Sulzbach Taunus;66272;198.51.100.179
+1;9;AU;New South Wales;NSW;Alexandria;2015;198.51.100.2
+2;9;AU;New South Wales;NSW;Coffs Harbour;2450;198.51.100.3
+3;9;AU;New South Wales;NSW;Darlinghurst;2010;198.51.100.4
+4;9;AU;New South Wales;NSW;Goulburn;2580;198.51.100.5
+5;9;AU;New South Wales;NSW;Lane Cove;1597;198.51.100.6
+6;9;AU;New South Wales;NSW;Lavender Bay;2060;198.51.100.7
+7;9;AU;New South Wales;NSW;Malabar;2036;198.51.100.8
+8;9;AU;New South Wales;NSW;Matraville;2036;198.51.100.9
+9;9;AU;New South Wales;NSW;Milsons Point;2061;198.51.100.10
+10;9;AU;New South Wales;NSW;Newcastle;2300;198.51.100.11
+11;9;AU;New South Wales;NSW;North Ryde;2113;198.51.100.12
+12;9;AU;New South Wales;NSW;North Sydney;2055;198.51.100.13
+13;9;AU;New South Wales;NSW;Port Macquarie;2444;198.51.100.14
+14;9;AU;New South Wales;NSW;Rhodes;2138;198.51.100.15
+15;9;AU;New South Wales;NSW;Silverwater;2264;198.51.100.16
+16;9;AU;New South Wales;NSW;Springwood;2777;198.51.100.17
+17;9;AU;New South Wales;NSW;St. Leonards;2065;198.51.100.18
+18;9;AU;New South Wales;NSW;Sydney;1002;198.51.100.19
+19;9;AU;New South Wales;NSW;Wollongong;2500;198.51.100.20
+20;9;AU;Queensland;QLD;Brisbane;4000;198.51.100.21
+21;9;AU;Queensland;QLD;Caloundra;4551;198.51.100.22
+22;9;AU;Queensland;QLD;East Brisbane;4169;198.51.100.23
+23;9;AU;Queensland;QLD;Gold Coast;4217;198.51.100.24
+24;9;AU;Queensland;QLD;Hawthorne;4171;198.51.100.25
+25;9;AU;Queensland;QLD;Hervey Bay;4655;198.51.100.26
+26;9;AU;Queensland;QLD;Rockhampton;4700;198.51.100.27
+27;9;AU;Queensland;QLD;Townsville;4810;198.51.100.28
+28;9;AU;South Australia;SA;Cloverdale;6105;198.51.100.29
+29;9;AU;South Australia;SA;Findon;5023;198.51.100.30
+30;9;AU;South Australia;SA;Perth;6006;198.51.100.31
+31;9;AU;Tasmania;TAS;Hobart;7001;198.51.100.32
+32;9;AU;Victoria;VIC;Bendigo;3550;198.51.100.33
+33;9;AU;Victoria;VIC;Cranbourne;3977;198.51.100.34
+34;9;AU;Victoria;VIC;Geelong;3220;198.51.100.35
+35;9;AU;Victoria;VIC;Melbourne;3000;198.51.100.36
+36;9;AU;Victoria;VIC;Melton;3337;198.51.100.37
+37;9;AU;Victoria;VIC;Seaford;3198;198.51.100.38
+38;9;AU;Victoria;VIC;South Melbourne;3205;198.51.100.39
+39;9;AU;Victoria;VIC;Sunbury;3429;198.51.100.40
+40;9;AU;Victoria;VIC;Warrnambool;3280;198.51.100.41
+227;10;GB;England;ENG;Abingdon;OX14 4SE;198.51.100.228
+228;10;GB;England;ENG;Basingstoke Hants;RG24 8PL;198.51.100.229
+229;10;GB;England;ENG;Berks;SL4 1RH;198.51.100.230
+230;10;GB;England;ENG;Berkshire;RG11 5TP;198.51.100.231
+231;10;GB;England;ENG;Billericay;CM11;198.51.100.232
+232;10;GB;England;ENG;Birmingham;B29 6SL;198.51.100.233
+233;10;GB;England;ENG;Bracknell;RG12 8TB;198.51.100.234
+234;10;GB;England;ENG;Bury;PE17;198.51.100.235
+235;10;GB;England;ENG;Cambridge;CB4 4BZ;198.51.100.236
+236;10;GB;England;ENG;Cheltenham;GL50;198.51.100.237
+237;10;GB;England;ENG;Esher-Molesey;EM15;198.51.100.238
+238;10;GB;England;ENG;Gateshead;GA10;198.51.100.239
+239;10;GB;England;ENG;Gloucestershire;GL7 1RY;198.51.100.240
+240;10;GB;England;ENG;High Wycombe;HP10 9QY;198.51.100.241
+241;10;GB;England;ENG;Kirkby;KB9;198.51.100.242
+242;10;GB;England;ENG;Lancaster;LA1 1LN;198.51.100.243
+243;10;GB;England;ENG;Leeds;LE18;198.51.100.244
+244;10;GB;England;ENG;London;C2H 7AU;198.51.100.245
+245;10;GB;England;ENG;London;E17 6JF;198.51.100.246
+246;10;GB;England;ENG;London;EC1R 0DU;198.51.100.247
+247;10;GB;England;ENG;London;SE1 8HL;198.51.100.248
+248;10;GB;England;ENG;London;SW19 3RU;198.51.100.249
+249;10;GB;England;ENG;London;SW1P 2NU;198.51.100.250
+250;10;GB;England;ENG;London;SW6 SBY;198.51.100.251
+251;10;GB;England;ENG;London;SW8 1XD;198.51.100.252
+252;10;GB;England;ENG;London;SW8 4BG;198.51.100.253
+253;10;GB;England;ENG;London;W10 6BL;198.51.100.254
+254;10;GB;England;ENG;London;W1N 9FA;192.0.2.1
+255;10;GB;England;ENG;London;W1V 5RN;192.0.2.2
+256;10;GB;England;ENG;London;W1X3SE;192.0.2.3
+257;10;GB;England;ENG;London;W1Y 3RA;192.0.2.4
+258;10;GB;England;ENG;Maidenhead;SL67RJ;192.0.2.5
+259;10;GB;England;ENG;Milton Keynes;MK8 8DF;192.0.2.6
+260;10;GB;England;ENG;Milton Keynes;MK8 8ZD;192.0.2.7
+261;10;GB;England;ENG;Newcastle upon Tyne;NT20;192.0.2.8
+262;10;GB;England;ENG;Oxford;OX1;192.0.2.9
+263;10;GB;England;ENG;Oxford;OX14 4SE;192.0.2.10
+264;10;GB;England;ENG;Oxon;OX16 8RS;192.0.2.11
+265;10;GB;England;ENG;Peterborough;PB12;192.0.2.12
+266;10;GB;England;ENG;Reading;RG7 5H7;192.0.2.13
+267;10;GB;England;ENG;Runcorn;TY31;192.0.2.14
+268;10;GB;England;ENG;Liverpool;L4 4HB;192.0.2.15
+269;10;GB;England;ENG;Stoke-on-Trent;AS23;192.0.2.16
+270;10;GB;England;ENG;W. York;BD1 4SJ;192.0.2.17
+271;10;GB;England;ENG;Warrington;WA1;192.0.2.18
+272;10;GB;England;ENG;Warrington;WA3 7BH;192.0.2.19
+273;10;GB;England;ENG;Watford;WA3;192.0.2.20
+274;10;GB;England;ENG;West Sussex;RH15 9UD;192.0.2.21
+275;10;GB;England;ENG;Wokingham;RG41 1QW;192.0.2.22
+276;10;GB;England;ENG;Woolston;WA1 4SY;192.0.2.23
+277;10;GB;England;ENG;York;Y024 1GF;192.0.2.24
+278;10;GB;England;ENG;York;Y03 4TN;192.0.2.25
+279;10;GB;England;ENG;York;YO15;192.0.2.26
